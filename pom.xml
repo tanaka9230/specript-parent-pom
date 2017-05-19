@@ -208,4 +208,13 @@
         </dependencies>
     </dependencyManagement>
 
+<!--
+    <repositories>
+        <repository>
+            <id>maven.central.non-secure</id>
+            <name>Non-secure Maven Central Repository</name>
+            <url>http://repo1.maven.org/maven2</url>
+        </repository>
+    </repositories>
+-->
 </project>
